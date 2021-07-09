@@ -6,10 +6,6 @@ using UnityEngine;
 public class DetectCollisions : MonoBehaviour
 {
     public static int scoreValue = 0;
-    private void Awake()
-    {
-        
-    }
 
     // Start is called before the first frame update
     void Start()
